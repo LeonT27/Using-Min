@@ -1,0 +1,14 @@
+html, body {
+    font-family: 'Muli', sans-serif;
+}
+
+#myPhoto {
+    display: block;
+    margin: auto;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.min {
+    padding: 5px;
+}
